@@ -1,0 +1,26 @@
+#scannedData th,
+.wprds-center{
+    text-align: center !important;
+}
+.wrap.wprds-scanner-wrap{
+    position: relative;
+}
+.loaderWrap{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.8);
+    top: 0;
+    left: 0;
+    z-index: 9;
+}
+.loaderText{
+    top: 50%;
+    position: fixed;
+    left: 50%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.wprds-hide{
+    display: none;
+}
