@@ -1,4 +1,5 @@
 === WP Root Directory Scanner ===
+
 Contributors: brijesh03
 Tags: directory scanner, scan, scanner, directory, wordpress
 Requires at least: 4.4
@@ -10,6 +11,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 This plugin scans the root directory of the WordPress installation and lists the files and directories on the WordPress admin side.
 
 == Description ==
+
 This plugin scans the root directory of the WordPress installation and lists the files and directories on the WordPress admin side.
 
 == Installation ==
